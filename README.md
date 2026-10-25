@@ -1,1 +1,1 @@
-Streakk
+# Auto Streak
